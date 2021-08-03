@@ -36,17 +36,7 @@ void print(pointer* start)
     print(start->right);
 }
 
-void del(pointer* start, int num)
-{
-    //udoli
-}
 
-void del_last(pointer* start)
-{
-    //udoli
-}
-
-pointer* del_any();
 
 
 pointer *temp, *start;
